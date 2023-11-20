@@ -1,3 +1,1 @@
-# Demo codespace for trying out python specific apps based on
-## Quantitavtive & Algo Trading
-## AI using scikit learn & PyTorch
+# Demo codespace for trying out python specific apps
